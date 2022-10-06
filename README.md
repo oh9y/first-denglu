@@ -1,6 +1,6 @@
 # day01
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue3 全家桶 + Element Plus + Vite + TypeScript + Eslint 项目配置最佳实践
 
 ## Recommended IDE Setup
 
